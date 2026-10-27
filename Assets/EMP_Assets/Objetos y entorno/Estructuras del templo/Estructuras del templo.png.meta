@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: 4afcd89a2f503ba42be696e8a862a8be
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2782975032014097191
+    second: Estructuras del templo_0
+  - first:
+      213: -5240051068654662042
+    second: Estructuras del templo_1
+  - first:
+      213: 308269772050929838
+    second: Estructuras del templo_2
+  - first:
+      213: 3658556716733369128
+    second: Estructuras del templo_3
+  - first:
+      213: -8149296624103269288
+    second: Estructuras del templo_4
+  - first:
+      213: -6667865601716120199
+    second: Estructuras del templo_5
+  - first:
+      213: -4037734301145649675
+    second: Estructuras del templo_6
+  - first:
+      213: 1890040324819801538
+    second: Estructuras del templo_7
+  - first:
+      213: -3930178643985422379
+    second: Estructuras del templo_8
+  - first:
+      213: 7485441595633343308
+    second: Estructuras del templo_9
+  - first:
+      213: -7858270861826233745
+    second: Estructuras del templo_10
+  - first:
+      213: 2266316974222736659
+    second: Estructuras del templo_11
+  - first:
+      213: 8455881299769957560
+    second: Estructuras del templo_12
+  - first:
+      213: 6911839379192241135
+    second: Estructuras del templo_13
+  - first:
+      213: 5427230409442577942
+    second: Estructuras del templo_14
+  - first:
+      213: -1298872528866673526
+    second: Estructuras del templo_15
+  - first:
+      213: -3270992557348601502
+    second: Estructuras del templo_16
+  - first:
+      213: 3098060102011023661
+    second: Estructuras del templo_17
+  - first:
+      213: -7492950700130786390
+    second: Estructuras del templo_18
+  - first:
+      213: 2282507107718886246
+    second: Estructuras del templo_19
+  - first:
+      213: -5988755738122793129
+    second: Estructuras del templo_20
+  - first:
+      213: 6665425741385156206
+    second: Estructuras del templo_21
+  - first:
+      213: -802324146869240544
+    second: Estructuras del templo_22
+  - first:
+      213: -5124742149846551102
+    second: Estructuras del templo_23
+  - first:
+      213: 5879026464467661422
+    second: Estructuras del templo_24
+  - first:
+      213: -7695373165580373376
+    second: Estructuras del templo_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Estructuras del templo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1560
+        width: 183
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4b40604f2e069d0800000000000000
+      internalID: -2782975032014097191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estructuras del templo_1
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1565
+        width: 155
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ecee7e0599747b0800000000000000
+      internalID: -5240051068654662042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estructuras del templo_2
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1560
+        width: 150
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8161279b1374400800000000000000
+      internalID: 308269772050929838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estructuras del templo_3
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1560
+        width: 151
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b038333fdc5c230800000000000000
+      internalID: 3658556716733369128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estructuras del templo_4
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1560
+        width: 170
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85cd80fa5e1e7ee80800000000000000
+      internalID: -8149296624103269288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estructuras del templo_5
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 1616
+        width: 448
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9751aa7209bf673a0800000000000000
+      internalID: -6667865601716120199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estructuras del templo_6
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 1405
+        width: 502
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fdadc2cb0617f7c0800000000000000
+      internalID: -4037734301145649675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estructuras del templo_7
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 1616
+        width: 412
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c55c0c59a5ca3a10800000000000000
+      internalID: 1890040324819801538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estructuras del templo_8
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1042
+        width: 167
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d72c65a8533579c0800000000000000
+      internalID: -3930178643985422379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estructuras del templo_9
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1042
+        width: 144
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b98aeb871a1e760800000000000000
+      internalID: 7485441595633343308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estructuras del templo_10
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1042
+        width: 124
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a6b0c3940d1f290800000000000000
+      internalID: -7858270861826233745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estructuras del templo_11
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1042
+        width: 153
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31dfbf4d743937f10800000000000000
+      internalID: 2266316974222736659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estructuras del templo_12
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1042
+        width: 170
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc18afad33595570800000000000000
+      internalID: 8455881299769957560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estructuras del templo_13
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1037
+        width: 975
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb5f4d7b49cbef50800000000000000
+      internalID: 6911839379192241135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estructuras del templo_14
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 530
+        width: 393
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ec50d7d45615b40800000000000000
+      internalID: 5427230409442577942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estructuras del templo_15
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 530
+        width: 436
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c7364115a79fde0800000000000000
+      internalID: -1298872528866673526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estructuras del templo_16
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 714
+        width: 345
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2614a4c79991b92d0800000000000000
+      internalID: -3270992557348601502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estructuras del templo_17
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 714
+        width: 253
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d217d21af358efa20800000000000000
+      internalID: 3098060102011023661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estructuras del templo_18
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 714
+        width: 313
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3a03f9901b30890800000000000000
+      internalID: -7492950700130786390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estructuras del templo_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 433
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66373e80f181daf10800000000000000
+      internalID: 2282507107718886246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estructuras del templo_20
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 18
+        width: 477
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75fcb9ec26aa3eca0800000000000000
+      internalID: -5988755738122793129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estructuras del templo_21
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 305
+        width: 335
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66c1089569508c50800000000000000
+      internalID: 6665425741385156206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estructuras del templo_22
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 305
+        width: 369
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02df32770729dd4f0800000000000000
+      internalID: -802324146869240544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estructuras del templo_23
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 294
+        width: 201
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5bce0ba2241e8b0800000000000000
+      internalID: -5124742149846551102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estructuras del templo_24
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 17
+        width: 129
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6237b7cb6f769150800000000000000
+      internalID: 5879026464467661422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estructuras del templo_25
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 0
+        width: 666
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0823283b0ea843590800000000000000
+      internalID: -7695373165580373376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Estructuras del templo_0: -2782975032014097191
+      Estructuras del templo_1: -5240051068654662042
+      Estructuras del templo_10: -7858270861826233745
+      Estructuras del templo_11: 2266316974222736659
+      Estructuras del templo_12: 8455881299769957560
+      Estructuras del templo_13: 6911839379192241135
+      Estructuras del templo_14: 5427230409442577942
+      Estructuras del templo_15: -1298872528866673526
+      Estructuras del templo_16: -3270992557348601502
+      Estructuras del templo_17: 3098060102011023661
+      Estructuras del templo_18: -7492950700130786390
+      Estructuras del templo_19: 2282507107718886246
+      Estructuras del templo_2: 308269772050929838
+      Estructuras del templo_20: -5988755738122793129
+      Estructuras del templo_21: 6665425741385156206
+      Estructuras del templo_22: -802324146869240544
+      Estructuras del templo_23: -5124742149846551102
+      Estructuras del templo_24: 5879026464467661422
+      Estructuras del templo_25: -7695373165580373376
+      Estructuras del templo_3: 3658556716733369128
+      Estructuras del templo_4: -8149296624103269288
+      Estructuras del templo_5: -6667865601716120199
+      Estructuras del templo_6: -4037734301145649675
+      Estructuras del templo_7: 1890040324819801538
+      Estructuras del templo_8: -3930178643985422379
+      Estructuras del templo_9: 7485441595633343308
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - objetos
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 3565586313
+    locked: 0
+  - name: WalkInfront
+    uniqueID: 1658957365
+    locked: 0
+  - name: Collition
+    uniqueID: 4124732295
+    locked: 0
+  - name: Player
+    uniqueID: 1839900061
+    locked: 0
+  - name: WalkBehing
+    uniqueID: 3693438775
+    locked: 0
+  - name: Decoration
+    uniqueID: 4155684751
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  m_MigratedRenderPipelines: []
