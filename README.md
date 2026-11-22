@@ -1,8 +1,8 @@
-# El mensaje perdido 🎮
+# The Lost Message 🎮
 
 ## 📖 About the Game
 
-**El mensaje perdido** is a video game project developed with Unity. The game is currently under development, with maps designed for the minigame and keyboard controls configured for player movement.
+**The Lost Message** is a video game project developed using Unity. The game is currently under development; it features maps designed for the minigame, with keyboard controls configured for player movement.
 
 ## 🕹️ Controls
 
@@ -10,25 +10,26 @@
 - **↓ Down Arrow:** Move down.
 - **← Left Arrow:** Move left.
 - **→ Right Arrow:** Move right.
+- **Tab:** Open the menu.
+- **Book Button:** Click the right mouse button on this button to open the book.
 
 ## 🗺️ Current Features
 
-- Maps set up for the minigame.
+- Maps prepared for the minigame.
 - Keyboard controls configured using the arrow keys.
 - Initial game environment and project structure.
 
 ## 🛠️ Technologies
 
-- **Unity:** Game development engine.
-- **C#:** Programming language for game logic.
+- **Unity:** Video game development engine.
+- **C#:** Programming language used for game logic.
 - **Git and GitHub:** Version control and project hosting.
 
 ## 🚧 Development Status
 
-The project is still under development. New features, improvements, and gameplay elements may be added in future versions.
+The project is still under development. Future versions may include new features, improvements, and gameplay elements.
 
-**Current version:** v0.1.0
-
+**Current version:** v0.2.0
 
 ## 👨‍💻 Author
 
